@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "c489bd41d82a6c79",
+    "id": "5f8bb981b62621df",
     "type": "split",
     "children": [
       {
-        "id": "aa5e03029795392a",
+        "id": "a514c7de175bb7ea",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -82,6 +82,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa5e03029795392a",
-  "lastOpenFiles": []
+  "active": "a514c7de175bb7ea",
+  "lastOpenFiles": [
+    "Microservices/Spring-Boot/Spring-Boot.md",
+    "README.md",
+    "Programming Languages/Java/Java.md",
+    "Programming Languages/Programming Languages.md",
+    "Programming Languages/Python/Python.md",
+    "Microservices/Microservices.md",
+    "Programming_Languages.md",
+    "Microservices/FastAPI/FastAPI.md"
+  ]
 }
